@@ -26,4 +26,4 @@ git push origin addstyles
 1. Fork the repository, there should be a fork button on the upper right hand side of this page.
 2. Open it as an existing project in android studio or other IDE.
 3. Run it on an AVD or a real device.
-4. & 5. as previous
+4. & 5. as for updating your calculator
